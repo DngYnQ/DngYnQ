@@ -1,5 +1,4 @@
 ## Heyy im @DngYnQ. Abrikos gamer.
-btw, i forget.. sorry)
 
 ```mermaid
 graph LR
